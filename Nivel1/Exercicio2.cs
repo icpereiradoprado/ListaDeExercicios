@@ -8,7 +8,7 @@ namespace Nivel1
 {
     class Exercicio2
     {
-        static void Main(string[] args) 
+        static void Main2(string[] args) 
         {
             double cotacaoDolar, valorDolares, converteReal;
 
