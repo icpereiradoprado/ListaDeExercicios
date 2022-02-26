@@ -26,8 +26,8 @@ namespace Nivel1
             Console.WriteLine("Digite a quantidade de peças vendidas: ");
             qtdVendida = Convert.ToInt32(Console.ReadLine());
 
-            pagamentoComissao = (precoPeca * qtdVendida)* 1.05;
-            Console.WriteLine("Pagamento do vendedor: R$ "+String.Format("{0:0.00}",pagamentoComissao));
+            pagamentoComissao = (precoPeca * qtdVendida)* 0.05;
+            Console.WriteLine("Comissão do vendedor: R$ "+String.Format("{0:0.00}",pagamentoComissao)+" Referente ao valor total da venda: "+String.Format("{0:0.00}",precoPeca * qtdVendida));
 
         }
     }
