@@ -8,7 +8,7 @@ namespace Nivel1
 {
     internal class Exercicio5
     {
-        static void Main(string[] args)
+        static void Main5(string[] args)
         {
             double tempoViagem, distanciaPercorrida, litrosUsados;
             int velocidadeMedia;
