@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ListaDeExercicios\\Nivel1\\Nivel1.csproj",
-      "projectName": "Nivel1",
-      "projectPath": "C:\\ListaDeExercicios\\Nivel1\\Nivel1.csproj",
+      "projectUniqueName": "C:\\ListaDeExercicios\\Nivel2\\Nivel2.csproj",
+      "projectName": "Nivel2",
+      "projectPath": "C:\\ListaDeExercicios\\Nivel2\\Nivel2.csproj",
       "packagesPath": "C:\\Users\\alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\ListaDeExercicios\\Nivel1\\obj\\",
+      "outputPath": "C:\\ListaDeExercicios\\Nivel2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

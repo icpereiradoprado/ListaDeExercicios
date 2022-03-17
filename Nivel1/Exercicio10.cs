@@ -8,7 +8,7 @@ namespace Nivel1
 {
     internal class Exercicio10
     {
-        static void Main(string[] args) 
+        static void Main10(string[] args) 
         {
             int numero1, numero2;
             bool igual, naoIgual, maior, menor, maiorIgual, menorIgual;
