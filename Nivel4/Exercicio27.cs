@@ -19,16 +19,23 @@ namespace Nivel4
             {
                 Console.WriteLine($"Digite o {i}º número: ");
                 numero = Convert.ToInt32(Console.ReadLine());
-                num = numero;
-                while(numero > 1)
+                if (numero >= 0)
                 {
-                    fatorial *= numero;
-                    numero--;
-                    Console.WriteLine($"{num}! = {fatorial}x{numero}");
+                    num = numero;
+                    Console.Write($"{num}! = ");
+                    while (numero > 1)
+                    {
+                        fatorial *= numero;
+                        Console.Write($"{numero} x ");
+                        numero--;
+                    }
+                    Console.Write($"1 => {fatorial}");
+                    fatorial = 1;
                 }
-                Console.WriteLine($"Fatorial = {fatorial}");
-                fatorial = 1;
-                
+                else 
+                {
+                    Console.WriteLine("Não existe fatorial de número negativo !!");
+                }
             }
         }
         
