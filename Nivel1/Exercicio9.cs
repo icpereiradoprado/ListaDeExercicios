@@ -22,7 +22,7 @@ namespace Nivel1
             Console.WriteLine("Dias: ");
             dia = Convert.ToInt32(Console.ReadLine());
 
-            idadeDias = ((idade / 365) + (mes * 30) + dia);
+            idadeDias = ((idade * 365) + (mes * 30) + dia);
 
             Console.WriteLine($"Sua idade em dias é: {idadeDias} dias");
 
