@@ -8,7 +8,7 @@ namespace Nivel3
 {
     internal class Exercicio25
     {
-        static void Main(string[] args)
+        static void Main25(string[] args)
         {
             double altura;
             int sexo;
