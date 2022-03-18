@@ -1,0 +1,8 @@
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel3\bin\Debug\Nivel3.exe.config
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel3\bin\Debug\Nivel3.exe
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel3\bin\Debug\Nivel3.pdb
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel3\obj\Debug\Nivel3.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel3\obj\Debug\Nivel3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel3\obj\Debug\Nivel3.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel3\obj\Debug\Nivel3.exe
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel3\obj\Debug\Nivel3.pdb

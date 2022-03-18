@@ -8,7 +8,7 @@ namespace Nivel2
 {
     class Exercicio20
     {
-        static void Main(string[] args)
+        static void Main20(string[] args)
         {
             int a, b, c,maior,menor;
             do
@@ -32,7 +32,7 @@ namespace Nivel2
 
             do
             {
-                Console.WriteLine("Digite um valor inteiro e maior que zero para B: ");
+                Console.WriteLine("Digite um valor inteiro e maior que zero para C: ");
                 c = Convert.ToInt32(Console.ReadLine());
                 if (c < 0)
                 {
@@ -45,7 +45,7 @@ namespace Nivel2
                 maior = a;
                 menor = c;
             }
-            else if (a > b && b < c)
+            else if (a > b && b < c && a > c)
             {
                 maior = a;
                 menor = b;
@@ -58,7 +58,7 @@ namespace Nivel2
             else if (b > c && a < c)
             {
                 maior = b;
-                menor = c;
+                menor = a;
             }
             else if (c > b && a > b)
             {
