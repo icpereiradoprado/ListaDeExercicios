@@ -18,7 +18,7 @@ namespace Nivel4
                 numero = Convert.ToInt32(Console.ReadLine());
                 if (numero < 0 || numero > 10)
                 {
-                    Console.WriteLine("Valor inválido!!\n\n");
+                    Console.WriteLine("Valor inválido!!\n");
                 }
             } while (numero < 0 || numero > 10);
 
@@ -29,8 +29,9 @@ namespace Nivel4
                     quadrado = numero * numero;
                     soma += quadrado;
                     contador++;
-                    numero++;
                 }
+                
+                numero++;
             }
 
             Console.WriteLine($"A soma dos quadrados dos 20 primeiros números inteiros positivos ímpares é:\n{soma}");
