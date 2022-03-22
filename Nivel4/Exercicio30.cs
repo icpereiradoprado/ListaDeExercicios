@@ -8,7 +8,7 @@ namespace Nivel4
 {
     class Exercicio30
     {
-        static void Main(string[] args)
+        static void Main30(string[] args)
         {
             int numero;
 
