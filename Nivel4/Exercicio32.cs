@@ -8,7 +8,7 @@ namespace Nivel4
 {
     class Exercicio32
     {
-        static void Main(string[] args)
+        static void Main32(string[] args)
         {
             int numero,soma=0,quadrado, contador = 0;
             
