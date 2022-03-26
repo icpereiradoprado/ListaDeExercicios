@@ -8,7 +8,7 @@ namespace Nivel4
 {
     class Exercicio37
     {
-        static void Main(string[] args)
+        static void Main37(string[] args)
         {
             int operacao;
             int num1 = 0;
