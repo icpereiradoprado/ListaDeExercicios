@@ -1,0 +1,16 @@
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel5\bin\Debug\net5.0\Nivel5.exe
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel5\bin\Debug\net5.0\Nivel5.deps.json
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel5\bin\Debug\net5.0\Nivel5.runtimeconfig.json
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel5\bin\Debug\net5.0\Nivel5.runtimeconfig.dev.json
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel5\bin\Debug\net5.0\Nivel5.dll
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel5\bin\Debug\net5.0\Nivel5.pdb
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel5\obj\Debug\net5.0\Nivel5.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel5\obj\Debug\net5.0\Nivel5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel5\obj\Debug\net5.0\Nivel5.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel5\obj\Debug\net5.0\Nivel5.AssemblyInfo.cs
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel5\obj\Debug\net5.0\Nivel5.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel5\obj\Debug\net5.0\Nivel5.dll
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel5\obj\Debug\net5.0\refint\Nivel5.dll
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel5\obj\Debug\net5.0\Nivel5.pdb
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel5\obj\Debug\net5.0\Nivel5.genruntimeconfig.cache
+C:\Users\Nicolas\Desktop\ListaDeExercicios\Nivel5\obj\Debug\net5.0\ref\Nivel5.dll
