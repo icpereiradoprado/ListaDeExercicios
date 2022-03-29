@@ -10,8 +10,8 @@ namespace Nivel4
     {
         static void Main43(string[] args)
         {
-            long totalGraos = 1;
-            int graos = 1;
+            ulong totalGraos = 1;
+            ulong graos = 1;
             for(int i = 2; i <= 64; i++)
             {
                 graos*= 2;
