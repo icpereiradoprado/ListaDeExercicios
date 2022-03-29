@@ -5,7 +5,7 @@ namespace Nivel5
 {
     internal class Exercicio45
     {
-        static void Main45(string[] args)
+        static void Main(string[] args)
         {
             int qtdElementos;
             Console.WriteLine("Digite a quantidade de números que você deseja adicionar no vetor: ");
@@ -22,7 +22,7 @@ namespace Nivel5
             {
                 Console.WriteLine($"Lista original: {j}");
             }
-
+            Console.WriteLine("=============================");
             Array.Reverse(numeros);
             foreach (var k in numeros)
             {

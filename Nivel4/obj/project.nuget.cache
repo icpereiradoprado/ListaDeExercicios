@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F+pm8zKJHBNTC+HXYHze6eX3vcYW1znnAMvolF46+EinkAqhxWo/jCWqA8rb1QxjsuXDEzv8NZ6kw1ibe1nRLw==",
+  "dgSpecHash": "5G7BZWEVbAMPq5IRMULpm6YtQe9Lsb6n1GA85FCSfMabGO//edanzO96Es6W5cMMzdrcNUQJOUJSYgWX5T1W+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nicolas\\Desktop\\ListaDeExercicios\\Nivel4\\Nivel4.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Nicolas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\ListaDeExercicios\\Nivel4\\Nivel4.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
