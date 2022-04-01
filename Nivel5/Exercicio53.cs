@@ -8,7 +8,7 @@ namespace Nivel5
 {
     class Exercicio53
     {
-        static void Main(string[] args)
+        static void Main53(string[] args)
         {
             uint tamanhoVetor;
             double melhorTempo = 0.0;
